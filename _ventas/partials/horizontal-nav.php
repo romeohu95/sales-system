@@ -246,4 +246,45 @@
                                 </div>
                             </div>
                             <div class="dropdown">
-                                <a class="dropdown-item
+                                <a class="dropdown-item dropdown-toggle arrow-none" href="#" id="topnav-icons" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Icons <div class="arrow-down"></div>
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="topnav-icons">
+                                    <a href="icons-remixicons.html" class="dropdown-item">Remix Icons</a>
+                                    <a href="icons-mdi.html" class="dropdown-item">Material Design</a>
+                                    <a href="icons-unicons.html" class="dropdown-item">Unicons</a>
+                                    <a href="icons-lucide.html" class="dropdown-item">Lucide</a>
+                                </div>
+                            </div>
+                            <div class="dropdown">
+                                <a class="dropdown-item dropdown-toggle arrow-none" href="#" id="topnav-maps" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Maps <div class="arrow-down"></div>
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="topnav-maps">
+                                    <a href="maps-google.html" class="dropdown-item">Google Maps</a>
+                                    <a href="maps-vector.html" class="dropdown-item">Vector Maps</a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle arrow-none" href="#" id="topnav-layouts" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <i class="uil-window"></i>Layouts <div class="arrow-down"></div>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="topnav-layouts">
+                            <a href="index.html" class="dropdown-item" target="_blank">Vertical</a>
+                            <a href="layouts-horizontal.html" class="dropdown-item" target="_blank">Horizontal</a>
+                            <a href="layouts-detached.html" class="dropdown-item" target="_blank">Detached</a>
+                            <a href="layouts-full.html" class="dropdown-item" target="_blank">Full</a>
+                            <a href="layouts-fullscreen.html" class="dropdown-item" target="_blank">Fullscreen</a>
+                            <a href="layouts-hover.html" class="dropdown-item" target="_blank">Hover Menu</a>
+                            <a href="layouts-compact.html" class="dropdown-item" target="_blank">Compact Menu</a>
+                            <a href="layouts-icon-view.html" class="dropdown-item" target="_blank">Icon View</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+<!-- ========== Horizontal Menu End ========== -->
