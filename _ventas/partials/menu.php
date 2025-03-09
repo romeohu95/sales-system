@@ -1,3 +1,3 @@
-<?php include('./topbar.php'); ?>
+<?php include($documentroot.'/partials/topbar.php'); ?>
 
-<?php include('./left-sidebar.php'); ?>
+<?php include($documentroot.'/partials/left-sidebar.php'); ?>
